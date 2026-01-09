@@ -18,3 +18,28 @@
 
 
 
+// let a = 10;
+// let b = a++;
+
+// console.log(a);
+// console.log(b);   //post-increment
+
+// let x = 10;
+// let y = ++x;
+
+// console.log(x);
+// console.log(y);   //pre-increment
+
+// example:
+
+// let h = 12; 
+// let g = 15;
+// let i = 8;
+
+// let d = h++ + --g - i++ + ++h;
+// console.log(d);
+
+
+let a = 4;
+a += 3*4;   // here first multiplication will take place and after that the addition of a will be done.
+console.log(a);
