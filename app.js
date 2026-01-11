@@ -40,6 +40,7 @@
 // console.log(d);
 
 
-let a = 4;
-a += 3*4;   // here first multiplication will take place and after that the addition of a will be done.
-console.log(a);
+// let a = 4;
+// a += 3*4;   // here first multiplication will take place and after that the addition of a will be done.
+// console.log(a);
+
